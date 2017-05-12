@@ -41,5 +41,5 @@ See [this page](oql-right-outer-join).
 **FULL OUTER JOIN**
 See [this page](oql-full-outer-join).
 
-**ON <constraint>**
-Constraints the specified entity in the JOIN part of the FROM clause. The constraint syntax is similar as those of the WHERE clause. Only the entities and from-aliases from the current JOIN element and each previous one can be used in the constraint.
+**ON**
+Constrains the specified entity in the JOIN part of the FROM clause. The constraint syntax is similar as those of the WHERE clause. Only the entities and from-aliases from the current JOIN element and each previous one can be used in the constraint.
